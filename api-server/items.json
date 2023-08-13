@@ -1,0 +1,6 @@
+[
+  { "name": "soap", "price": "200", "size": "small", "id": 1 },
+  { "name": "meat", "price": "500", "size": "medium", "id": 3 },
+  { "name": "mat", "price": "7,000", "size": "medium", "id": 4 },
+  { "name": "Ice cream", "price": "300", "size": "medium", "id": 5 }
+]
